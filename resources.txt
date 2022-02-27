@@ -1,0 +1,24 @@
+Tensorflow's official Object_detection repo -->
+https://github.com/tensorflow/models/tree/master/research/object_detection
+or more specifically
+https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/tf2_detection_zoo.md
+--------------------------
+TF Hub, publisher: Tensforflow
+:Model created using TF Object Detection API
+https://tfhub.dev/tensorflow/faster_rcnn/resnet152_v1_1024x1024/1
+----------------------------
+TF Hub Object Detection with TF2 filter
+https://tfhub.dev/s?module-type=image-object-detection&tf-version=tf2
+----------------------------
+**TF HUB Collections** (TF Hub version of TF Model ZOO models)
+"Collection of TensorFlow 2 Object Detection models trained on COCO 2017 dataset."
+https://tfhub.dev/tensorflow/collections/object_detection/1
+----------------------------
+TF Hub- TF-Lite Models
+https://tfhub.dev/s?deployment-format=lite&module-type=image-object-detection&tf-version=tf2
+----------------------------
+coco 2017 dataset index-label mapping file:
+https://github.com/tensorflow/models/blob/master/research/object_detection/data/mscoco_label_map.pbtxt
+----------------------------
+NVIDIA JETSON TX1 and TX2:
+https://www.google.com/search?q=what+is+NVIDIA%E2%80%99s+Jetson+TX1&client=ubuntu&biw=1366&bih=600&sxsrf=AOaemvIc6egRPSD1aNScSVSoimwhB_Yx1Q%3A1630161623174&ei=10oqYdSBCrCF9u8Pz_KgmA8&oq=what+is+NVIDIA%E2%80%99s+Jetson+TX1&gs_lcp=Cgdnd3Mtd2l6EAMyBQgAEM0CMgUIABDNAjoHCCMQsAMQJzoHCAAQRxCwA0oECEEYAFDhDFjUF2CQGWgBcAJ4AIABsQGIAZcKkgEDMC44mAEAoAEByAEJwAEB&sclient=gws-wiz&ved=0ahUKEwiUyeaj-dPyAhWwgv0HHU85CPMQ4dUDCA8&uact=5

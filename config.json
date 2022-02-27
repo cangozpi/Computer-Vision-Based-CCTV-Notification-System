@@ -1,0 +1,22 @@
+{
+    "video_capture_const": "rtsp://admin:Can123456@192.168.1.13:554/unicast/c3/s1/live",
+    "hub_model_Url": "https://tfhub.dev/tensorflow/efficientdet/lite4/detection/2", 
+    "label_map_path": "./mscoco_label_map.pbtxt",
+    "class_ids": null,
+    "train_width": 640,
+    "train_height": 640,
+    "fontScale": 0.5,
+    "thickness": 2,
+    "box_color": [0, 255, 0],
+    "is_box_output_normalized": false, 
+    "threshold": 0.4,
+    "displayImage": true,
+    "return_original_size": false,
+    "sliding_window_size": 5,
+
+    "from_address": "yourmail@gmail.com",
+    "to_address": "yourmail@gmail.com",
+    "smtp_server_address": "smtp.gmail.com",
+    "smtp_server_port": 587,
+    "password": "yourpassword"
+}
